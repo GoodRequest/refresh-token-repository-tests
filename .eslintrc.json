@@ -1,0 +1,6 @@
+{
+  "extends": ["@goodrequest/eslint-config-typescript"],
+	"rules": {
+		"no-underscore-dangle": ["error", { "allowAfterThis": true }]
+	}
+}
