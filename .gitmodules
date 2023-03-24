@@ -1,3 +1,0 @@
-[submodule "repos/user-repositories/user-repository-sequelize"]
-	path = repos/user-repositories/user-repository-sequelize
-	url = git@github.com:GoodRequest/user-repository-sequelize.git
